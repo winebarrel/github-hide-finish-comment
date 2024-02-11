@@ -13,5 +13,5 @@
     "service_worker": "src/background.ts"
   },
   "permissions": ["scripting"],
-  "host_permissions": ["https://github.com/pull/*/files"]
+  "host_permissions": ["https://github.com/*/*/pull/*/files"]
 }
