@@ -1,6 +1,6 @@
 export async function hideComment() {
   const approveElem = document.querySelector(
-    "input#pull_request_review\\[event\\]_approve"
+    "input#pull_request_review\\[event\\]_approve",
   ) as HTMLInputElement;
 
   if (!approveElem) {
@@ -14,7 +14,7 @@ export async function hideComment() {
   }
 
   const commentElem = document.querySelector(
-    "input#pull_request_review\\[event\\]_comment"
+    "input#pull_request_review\\[event\\]_comment",
   );
 
   if (!commentElem) {
