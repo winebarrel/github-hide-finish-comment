@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "GitHub hide finish comment",
   "version": "0.1.0",
-  "description": "Hide comment checkbox for \"finish your review\" on GitHub.",
+  "description": "Hide comment checkbox for \"Finish your review\" on GitHub.",
   "icons": {
     "16": "images/icon-16.png",
     "32": "images/icon-32.png",
